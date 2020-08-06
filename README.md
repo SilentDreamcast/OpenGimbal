@@ -1,0 +1,2 @@
+# OpenGimbal
+automated camera gimbal
